@@ -23,7 +23,7 @@ The below diagram shows the project architecture.
 
 ![linkservices](Screenshots/linkservices.png "linkservices")
 
-### pipeline load payroll data 2021.
+### pipeline load payroll data 2021
 
 ![2021](Screenshots/Load-2021-Payrolldata-into-transaction-table-in-SQL DB.png "2021")
 
