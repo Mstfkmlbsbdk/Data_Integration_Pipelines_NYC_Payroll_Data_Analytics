@@ -23,22 +23,22 @@ The below diagram shows the project architecture.
 
 ![linkservices](Screenshots/linkservices.png "linkservices")
 
-### pipeline_load_payroll_data_2021.
+### pipeline load payroll data 2021.
 
 ![ppl_load_payroll_2021](Screenshots/Load-2021-Payrolldata-into-transaction-table-in-SQL DB.png "ppl_load_payroll_2021")
 
-### pipeline_master_load_succeeded
+### pipeline master load succeeded
 
 ![pipeline_master_load_succeeded](Screenshots/MasterPipelineSuccesed.png "pipeline_master_load_succeeded")
 
- ### global_parameter
+ ### global parameter
 
  ![global_parameter](Screenshots/GlobalParam.png "global_parameter")
  
-### aggregate_data_flows.
+### aggregate data flows.
 
 ![aggregate_data_flows](Screenshots/Aggregateflow.png "aggregate_data_flows")
 
-### aggregate_pipeline.
+### aggregate pipeline.
 
 ![aggregate_pipeline](Screenshots/AggregatePipelineSuccesed.png "aggregate_pipeline")
