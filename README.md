@@ -25,7 +25,7 @@ The below diagram shows the project architecture.
 
 ### pipeline load payroll data 2021
 
-![2021](Screenshots/Load-2021-Payrolldata-into-transaction-table-in-SQL DB.png "2021")
+![2021_load](Screenshots/Load-2021-Payrolldata-into-transaction-table-in-SQL DB.png "2021_load")
 
 ### pipeline master load succeeded
 
