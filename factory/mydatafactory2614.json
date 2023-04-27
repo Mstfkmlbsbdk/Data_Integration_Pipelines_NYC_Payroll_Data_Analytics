@@ -1,0 +1,17 @@
+{
+	"name": "mydatafactory2614",
+	"properties": {
+		"globalParameters": {
+			"globalparam": {
+				"type": "int",
+				"value": 2021
+			}
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6fc81dff-60a2-433a-a52d-0c198e0a7a77",
+		"tenantId": "720d72fe-61fe-4021-8ed4-2ed2aa324cd1"
+	}
+}
